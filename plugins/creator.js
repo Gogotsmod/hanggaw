@@ -11,7 +11,7 @@ let handler  = async (m, { conn, command, args, usedPrefix, DevMode }) => {
 ------- ${nameown} -------
 
 📮 *Note:*
-• Owner tidak menerima save contact
+• Owner menerima save contact
 • Owner berhak blockir tanpa alasan
 • Berbicaralah yang sopan & tidak spam
 • Owner Hanya merespon yang berkaitan dengan BOT
@@ -20,12 +20,12 @@ let handler  = async (m, { conn, command, args, usedPrefix, DevMode }) => {
 //------------ BIO
 let ppown = await conn.profilePictureUrl(nomorown + '@s.whatsapp.net', 'image').catch(_ => hwaifu[1]) 
 let teksbio = `${htki} *BIODATA* ${htka}
-*ɴᴀᴍᴇ:* Ary Offcial
-*ᴀɢᴇ:* 16ᵗʰ
-*sᴛᴀᴛᴜs:* Hanya Butuh Pasangan:v 
+*ɴᴀᴍᴇ:* Gogots mod
+*ᴀɢᴇ:* 17ᵗʰ
+*sᴛᴀᴛᴜs:* Hanya Butuh Pasangan 
 
-*ʙɪʀᴛʜᴅᴀʏ:* 5 Mei 2006
-*ᴀᴅᴅʀᴇss:* Indonesia, Sumut, Sibolangit
+*ʙɪʀᴛʜᴅᴀʏ:* 20 FEBRUARI 2005
+*ᴀᴅᴅʀᴇss:* Indonesia, Jabar, Ciamis
 
 *- - sᴋɪʟʟs: - -* 
 > JavaScript [89.7%]
